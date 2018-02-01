@@ -1,2 +1,2 @@
-# meta-net
-A meta learning implementation for Hopfield networks.
+# MetaNet
+A meta learning implementation for spiking neural networks (SNNs).
