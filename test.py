@@ -2,7 +2,7 @@
 from comet_ml import Experiment
 
 # Add the following code anywhere in your machine learning file
-experiment = Experiment(api_key="E3oWJUSFulpXpCUQfc5oGz0zY")
+experiment = Experiment(api_key="[REDACTED]")
 
 # Run your code and go to https://www.comet.ml
 
